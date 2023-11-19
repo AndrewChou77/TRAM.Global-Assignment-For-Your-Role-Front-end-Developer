@@ -13,3 +13,4 @@ Android Studio
 Room for Store data
 Jetpack Compose for UI
 
+![image](https://github.com/AndrewChou77/TRAM.Global-Assignment-For-Your-Role-Front-end-Developer/assets/114868890/7869db2c-46a0-42ee-87f0-786b2fe7a2df)
